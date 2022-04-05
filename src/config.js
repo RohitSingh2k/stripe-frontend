@@ -1,0 +1,3 @@
+export const STRIPE_PROD_KEY = 'pk_test_51KiDYOSCbb9C47BJrY5XPiRhw5OP0CyHeT6ivS4vWZif32OIHi9MLk7JyakFdEIGsiRPQ8IX5DvNbDRXWH5T7an8004XUVuZ8y';
+
+export const SERVER_BASE_URL = 'http://localhost:5000';
