@@ -30,9 +30,7 @@ function App() {
       body: JSON.stringify(body),
     })
       .then((res) => {
-        console.log("Response : ", res);
         const { status } = res;
-        console.log("STATUS : ", status);
       })
       .catch((err) => {
         console.log(err);
